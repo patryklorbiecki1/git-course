@@ -1,1 +1,1 @@
-# repo-wtorek
+# git-course
